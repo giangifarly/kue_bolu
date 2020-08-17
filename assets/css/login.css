@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: url(bolu1.jpg) no-repeat;
+  background: url(../images/bolu1.jpg) no-repeat;
   background-size: cover;
 }
 .login-box{
