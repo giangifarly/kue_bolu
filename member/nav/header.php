@@ -60,7 +60,7 @@
 					</a>
 				</div>
 				<div class="navbar-buttons mbr-section-btn">
-					<a class="btn btn-secondary display-4" href="signup.php">
+					<a class="btn btn-secondary display-4" href="../index.html">
 						Keluar
 					</a>
 				</div>

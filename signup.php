@@ -10,7 +10,7 @@
 
 <body>
   <div class="signup-form">
-    <form action="<?php echo $_SERVER['PHP_SELF'] ?>" method="post">
+    <form action="login.php" method="post">
       <h1>Sign Up</h1>
       <input type="text" name="nama" placeholder="Nama" class="txtb">
       <input type="text" name="userbaru" placeholder="Username" class="txtb">
@@ -20,7 +20,7 @@
       <input type="text" name="alamat" placeholder="Alamat" class="txtb">
       <input type="submit" name="submit" value="Register" class="signup-btn">
       <a href="login.php">
-        <input type="button" class="btn" value="Login">
+        <input type="button" class="btn" value="Atau Login">
       </a>
     </form>
   </div>
