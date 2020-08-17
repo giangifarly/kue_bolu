@@ -14,8 +14,8 @@
 							<label class="col-3 col-form-label">Nama Pemesan</label>
 							<select name="nama_pemesan" class="form-control col-9">
 								<option>-- Pilih Nama Pemesan --</option>
-								<option value="Sedang Pengiriman">Fikri Juan</option>
-								<option value="Sudah Sampai">Gian Gifarly</option>
+								<option value="Sedang Pengiriman">Fikri Juan 08123654897</option>
+								<option value="Sudah Sampai">Gian Gifarly 089617222740</option>
 							</select>
 							<small id="helpId" class="form-text text-muted"></small>
                         </div>
